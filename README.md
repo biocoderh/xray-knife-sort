@@ -35,7 +35,7 @@ WantedBy=default.target
 Reload and start:
 ```bash
 systemctl --user daemon-reload
-systemctl --user start v2raya-subcleaner
+systemctl --user start xray-knife-sort
 ```
 
 ## Environment Variables
