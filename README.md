@@ -4,7 +4,7 @@ An automated delay benchmark tool of sub list.
 
 ## Deployment (Podman Quadlet)
 
-Create `~/.config/containers/systemd/v2raya-subcleaner.container`:
+Create `~/.config/containers/systemd/xray-knife-sort.container`:
 
 ```ini
 [Unit]
